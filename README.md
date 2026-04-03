@@ -11,4 +11,5 @@ Welcome to my GitHub profile! I’m an Information Systems student at Bina Nusan
 * 📫 How to reach me: [https://www.linkedin.com/in/divya-asri-febrianty/]
 
 🎀 **Thanks for stopping by!**
+
 Feel free to check out my repositories and connect with me—I'm always open to learning and collaborating.
