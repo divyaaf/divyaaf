@@ -12,4 +12,4 @@ Welcome to my GitHub profile! I’m an Information Systems student at Bina Nusan
 
 🎀 **Thanks for stopping by!**
 
-Feel free to check out my repositories and connect with me—I'm always open to learning and collaborating.
+Feel free to check out my repositories and connect with me, I'm always open to learning and collaborating.
